@@ -9,7 +9,7 @@
   With well-grounded knowledge in various web, desktop and database management programming languages.
 <br />
 <br />
-<h2 align="center">»TOOLS AND LANGUAGES«</h1>
+<h2 align="center">» TOOLS AND LANGUAGES «</h1>
 <div align="center">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -26,7 +26,7 @@
 </div>
 <br />
 <br />
-<h2 align="center">»GITHUB STATS«</h1>
+<h2 align="center">» GITHUB STATS «</h1>
 <div align="center">
   <p align="center">
     <a href="https://github.com/IPast0r">
