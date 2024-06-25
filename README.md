@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center"> Hello there!, <a href="[https://aristi.dev](https://ipast0r.github.io/pastorghpage/index.html)">Ismael here</a></h1>
+<h1 align="center">» Hello there!, <a href="[https://aristi.dev](https://ipast0r.github.io/pastorghpage/index.html)">Ismael here</a></h1>
+<br />
 <br />
 </div>
 <img src="./imageBanner.png">
@@ -7,7 +8,8 @@
   Experienced in designing, creating, maintaining, and testing web and desktop systems.
   With well-grounded knowledge in various web, desktop and database management programming languages.
 <br />
-<h2 align="center">Tools and Languages</h1>
+<br />
+<h2 align="center">»TOOLS AND LANGUAGES«</h1>
 <div align="center">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -23,6 +25,8 @@
   <br />
 </div>
 <br />
+<br />
+<h2 align="center">»GITHUB STATS«</h1>
 <div align="center">
   <p align="center">
     <a href="https://github.com/IPast0r">
