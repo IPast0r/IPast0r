@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">» Hello there!, <a href="[https://aristi.dev](https://ipast0r.github.io/pastorghpage/index.html)">Ismael here</a></h1>
+<h1 align="center">» Hello there!</a></h1>
 <br />
 <br />
 </div>
   I'm Ismael Pastor, full stack software developer.
-  Experienced in designing, creating, maintaining, and testing web and desktop systems.
+  Experienced in designing, creating, maintaining, and testing web systems.
   With well-grounded knowledge in various web, desktop and database management programming languages.
 <br />
 <br />
