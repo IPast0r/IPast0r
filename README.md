@@ -3,8 +3,7 @@
 <br />
 <br />
 </div>
-<img src="./imageBanner.png">
-» I'm Ismael Pastor, full stack software developer.
+  I'm Ismael Pastor, full stack software developer.
   Experienced in designing, creating, maintaining, and testing web and desktop systems.
   With well-grounded knowledge in various web, desktop and database management programming languages.
 <br />
