@@ -8,15 +8,15 @@ Soy un programador con experiencia en entornos reales y desarrollo freelance. Me
 <br/>
 <h2 align="center">HERRAMIENTAS Y LENGUAJES</h1>
 <div>
-  <p>Backend & Frameworks:</p>
+  <b>Backend & Frameworks:</b>
   <p>&nbsp;&nbsp;&nbsp;·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework</p>
   
-  <p>Bases de datos:</p>
+  <b>Bases de datos:</b>
   <p>&nbsp;&nbsp;&nbsp;·	SQL, PL/SQL, MySQL</p>
   
-  <p>Arquitectura y Otros:</p>
+  <b>Arquitectura y Otros:</b>
   <p>&nbsp;&nbsp;&nbsp;·	Microservicios (API REST), Git, Maven, Docker</p>
-<br />
+<br/>
 </div>
 <h2 align="center">GITHUB STATS</h1>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
