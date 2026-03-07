@@ -18,7 +18,6 @@ Soy un programador con experiencia en entornos reales y desarrollo freelance. Me
   <p>&nbsp;&nbsp;&nbsp;·	Microservicios (API REST), Git, Maven, Docker</p>
 <br />
 </div>
-<br />
 <h2 align="center">GITHUB STATS</h1>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
