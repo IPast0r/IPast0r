@@ -23,11 +23,11 @@
 <br />
 <br />
 <h2 align="center">GITHUB STATS</h1>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <p align="center">
+<div align="center">
+  <p>
     <a href="https://github.com/IPast0r" display="flex">
-      <img margin="1em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IPast0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img margin="1em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPast0r&layout=compact&langs_count=8&theme=dracula"/>
+      <img margin="1em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IPast0r&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+      <img margin="1em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPast0r&layout=compact&langs_count=8&theme=ocean_dark"/>
     </a>
   </p>
   <br />
