@@ -25,7 +25,7 @@
 <h2 align="center">» GITHUB STATS «</h1>
 <div align="center">
   <p align="center">
-    <a href="https://github.com/IPast0r" display="flex">
+    <a href="https://github.com/IPast0r" display="flex" margin='1rem'>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IPast0r&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPast0r&layout=compact&langs_count=8&theme=blue-green"/>
     </a>
