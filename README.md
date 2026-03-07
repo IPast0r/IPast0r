@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Hola soy Ismael</a></h1>
   <br/>
-  <br/>
 </div>
 Soy un programador con experiencia en entornos reales y desarrollo freelance. Me enfoco en crear soluciones robustas y escalables utilizando el ecosistema Java.
 <br/>
