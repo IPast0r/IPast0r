@@ -8,18 +8,21 @@
 <br />
 <h2 align="center">HERRAMIENTAS Y LENGUAJES</h1>
 <div align="center">
-      Backend & Frameworks:
-        ·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework
-      
-      Frontend & Diseño:
-        ·	Angular, Angular Material, JavaScript, HTML5, CSS3
-      
+  
+  <p>
+    Backend & Frameworks:
+      ·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework
+  </p>
+  <p>
       Bases de datos:
         ·	SQL, PL/SQL, MySQL
-      
+  </p>
+  <p>
       Arquitectura y Otros: 
         ·	Microservicios (API REST), Git, Maven, Docker
-  <br />
+  </p>
+  
+<br />
 </div>
 <br />
 <br />
