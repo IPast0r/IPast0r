@@ -10,16 +10,16 @@
 <div align="center">
   
   <p>
-    Backend & Frameworks:
-      ·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework
+    Backend & Frameworks:<br>
+    &nbsp;·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework
   </p>
   <p>
-      Bases de datos:
-        ·	SQL, PL/SQL, MySQL
+      Bases de datos:<br>
+      &nbsp;·	SQL, PL/SQL, MySQL
   </p>
   <p>
-      Arquitectura y Otros: 
-        ·	Microservicios (API REST), Git, Maven, Docker
+      Arquitectura y Otros: <br>
+      &nbsp;·	Microservicios (API REST), Git, Maven, Docker
   </p>
   
 <br />
