@@ -7,7 +7,7 @@
 <br />
 <br />
 <h2 align="center">HERRAMIENTAS Y LENGUAJES</h1>
-<div align="center">
+<div>
   
   <p>Backend & Frameworks:</p>
   <p>&nbsp;·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework</p>
