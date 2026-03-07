@@ -9,18 +9,14 @@
 <h2 align="center">HERRAMIENTAS Y LENGUAJES</h1>
 <div align="center">
   
-  <p>
-    Backend & Frameworks:<br>
-    &nbsp;·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework
-  </p>
-  <p>
-      Bases de datos:<br>
-      &nbsp;·	SQL, PL/SQL, MySQL
-  </p>
-  <p>
-      Arquitectura y Otros: <br>
-      &nbsp;·	Microservicios (API REST), Git, Maven, Docker
-  </p>
+  <p>Backend & Frameworks:</p>
+  <p>&nbsp;·	Java, Spring Boot, Spring MVC, Hibernate, PHP, ZK framework</p>
+  
+  <p>Bases de datos:</p>
+  <p>&nbsp;·	SQL, PL/SQL, MySQL</p>
+  
+  <p>Arquitectura y Otros:</p>
+  <p>&nbsp;·	Microservicios (API REST), Git, Maven, Docker</p>
   
 <br />
 </div>
