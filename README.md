@@ -23,7 +23,7 @@
 <br />
 <br />
 <h2 align="center">GITHUB STATS</h1>
-<div align="center" display="flex">
+<div align="center" display="flex" gap="20px">
   <p>
     <a href="https://github.com/IPast0r" display="flex">
       <img margin="1em" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IPast0r&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
