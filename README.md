@@ -5,7 +5,7 @@
     </td>
     <td width="20"></td>
     <td>
-      <img margin="1em" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPast0r&layout=compact&langs_count=8&theme=nightowl"/>
+      <img margin="1em" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IPast0r&layout=compact&langs_count=8&theme=dark"/>
     </td>
   </tr>
 </table>
