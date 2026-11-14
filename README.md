@@ -1,21 +1,21 @@
 ```perl
 ⣿⠟⠁⠀⠀⢀⣠⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣀⠀⠀⠈⠙⢿⣿⣷   IPast0r@GitHub
 ⠁⠀⢀⣤⣾⣿⡿⠟⠛⠉⠉⠀⠀⠀⠀⠈⠉⠙⠛⠿⣿⣿⣦⣄⠀⠀⠙⢿   --------------
-⢀⣴⣿⡿⠟⠉⠀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠈⠙⢿⣿⣷⣄⠀⠀   Role:      Fullstack Developer
+⢀⣴⣿⡿⠟⠉⠀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠈⠙⢿⣿⣷⣄⠀⠀   Role: Fullstack Developer
 ⣿⣿⠋⠀⠀⢀⣤⣾⣿⣿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣦⣄⠀⠀⠙⢿⣿⣦⡀   Languages: Spanish, English, French
-⡟⠁⠀⢀⣴⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣷⣄⠀⠀⠻⣿⣷   OS:        Linux mint
+⡟⠁⠀⢀⣴⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣷⣄⠀⠀⠻⣿⣷   OS: Linux mint
 ⠀⠀⣠⣿⣿⠋⠀⠀⢀⣤⣶⣾⣿⣿⣿⣶⣦⣄⠀⠀⠙⢿⣿⣦⠀⠀⠹⣿   
 ⠀⣰⣿⡿⠁⠀⢀⣴⣿⡿⠟⠋⠉⠉⠉⠛⠿⣿⣷⡄⠀⠀⢻⣿⣇⠀⠀⢻   
 ⢠⣿⣿⠁⠀⢠⣿⣿⠏⠀⠀⢀⣠⣤⣀⠀⠀⠘⢿⣿⡄⠀⠈⣿⣿⡄⠀⠘
 ⣸⣿⡇⠀⠀⣾⣿⠇⠀⠀⣼⣿⡿⠿⣿⣷⡀⠀⠸⣿⣷⠀⠀⢸⣿⡇⠀⠀   Tech Stack:
 ⣿⣿⡇⠀⢀⣿⣿⠀⠀⢸⣿⡏⠀⢠⣼⣿⠃⠀⢠⣿⣿⠀⠀⢸⣿⡇⠀⠀   -----------
-⣿⣿⡇⠀⠈⣿⣿⠀⠀⢸⣿⣧⠀⠀⠉⠁⠀⢀⣾⣿⠇⠀⠀⣿⣿⠃⠀⢀   Backend:   Java, Spring Boot, Hibernate, PHP
-⢸⣿⣇⠀⠀⢻⣿⣆⠀⠀⠻⣿⣷⣦⣤⣤⣶⣿⡿⠋⠀⠀⣼⣿⡟⠀⠀⣸   Frontend:  Angular, TypeScript, React, HTML5/CSS3
+⣿⣿⡇⠀⠈⣿⣿⠀⠀⢸⣿⣧⠀⠀⠉⠁⠀⢀⣾⣿⠇⠀⠀⣿⣿⠃⠀⢀   Backend: Java, Spring Boot, Hibernate, PHP
+⢸⣿⣇⠀⠀⢻⣿⣆⠀⠀⠻⣿⣷⣦⣤⣤⣶⣿⡿⠋⠀⠀⣼⣿⡟⠀⠀⣸   Frontend: Angular, TypeScript, React, HTML5/CSS3
 ⠈⣿⣿⡄⠀⠈⢿⣿⣦⠀⠀⠈⠛⠻⠿⠿⠛⠋⠀⠀⢀⣼⣿⡟⠀⠀⢰⣿   Databases: SQL, PL/SQL, MySQL, Oracle, MongoDB
-⠀⠘⣿⣿⡄⠀⠈⠻⣿⣷⣦⣀⡀⠀⠀⠀⠀⣀⣠⣶⣿⡿⠋⠀⠀⣰⣿⡿   DevOps:    Docker, Git, Linux, Maven, REST APIs
+⠀⠘⣿⣿⡄⠀⠈⠻⣿⣷⣦⣀⡀⠀⠀⠀⠀⣀⣠⣶⣿⡿⠋⠀⠀⣰⣿⡿   DevOps: Docker, Git, Linux, Maven, REST APIs
 ⠀⠀⠘⢿⣿⣦⡀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⢀⣼⣿⡿⠁
 ⣷⡀⠀⠈⠻⣿⣿⣦⣀⠀⠀⠀⠈⠉⠉⠉⠉⠀⠀⠀⢀⣠⣶⣿⡿⠋⠀⠀   Contact & Links:
 ⢿⣿⣦⡀⠀⠈⠛⢿⣿⣿⣶⣤⣤⣄⣀⣀⣤⣤⣴⣾⣿⣿⠟⠋⠀⠀⢀⣼   ----------------
 ⠈⠻⣿⣿⣦⣀⠀⠀⠈⠙⠛⠿⠿⠿⠿⠿⠿⠿⠟⠛⠉⠀⠀⢀⣠⣾⣿⡿   Website: https://ipastor.netlify.app/
-⡀⠀⠈⠛⢿⣿⣷⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣿⣿⠟⠋⠀   Email:     ismaelpastorcontact@gmail.com
+⡀⠀⠈⠛⢿⣿⣷⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⣿⣿⠟⠋⠀   Email: ismaelpastorcontact@gmail.com
 ```
